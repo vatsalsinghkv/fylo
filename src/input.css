@@ -10,7 +10,7 @@
 }
 
 .btn-primary {
-  @apply capitalize w-full md:w-52 font-bold text-sm text-white bg-gradient-to-r from-accent-cyan to-accent-blue px-5 py-4 rounded-full hover:to-accent-cyan focus:to-accent-cyan duration-200;
+  @apply capitalize w-full md:w-60 font-bold text-sm text-white bg-gradient-to-r from-accent-cyan to-accent-blue px-5 py-4 rounded-full hover:to-accent-cyan focus:to-accent-cyan duration-200;
 }
 
 .wrapper {
